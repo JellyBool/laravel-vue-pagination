@@ -1,7 +1,6 @@
 Demo:
 
-![](https://wt-prj.oss.aliyuncs.com/0d06af79c49d4e08abb1ab3f7ab6e860/ff5bcc5f-ff1f-445f-95db-f5fa703abef3.gif)
-
+![](https://wt-prj.oss.aliyuncs.com/0d06af79c49d4e08abb1ab3f7ab6e860/ca791fed-8e49-4b7e-93ce-1c8d133dc167.gif)
 Usage:
 
 ### 1.Clone the Repo
