@@ -5,7 +5,7 @@
 ## Usage:
 
 > Notice: for the js code, just look into welcome.blade.php 
-> adn the data format locates in routes.php
+> and the data format locates in routes.php
 
 ### 1.Clone the Repo
 
