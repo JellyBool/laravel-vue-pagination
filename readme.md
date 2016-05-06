@@ -13,6 +13,9 @@
 git clone https://github.com/JellyBool/laravel-vue-pagination.git
 
 cd laravel-vue-pagination
+
+composer install
+
 ```
 
 ### 2.Setup Database
@@ -24,6 +27,8 @@ edit your .env file and setup database for laravel
 in your project root (`laravel-vue-pagination/`):
 
 ```
+php artisan migrate
+
 php artisan tinker
 ```
 then 
